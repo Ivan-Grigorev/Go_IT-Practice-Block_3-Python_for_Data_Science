@@ -1,1 +1,1 @@
-# Go_IT-Practice-Block_3-Python_for_Data_Science
+# GoIT - Practice - Block 3 - Python for Data Science
